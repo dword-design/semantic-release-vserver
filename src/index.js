@@ -12,5 +12,5 @@ const config = {
 
 export default sshCommands
   |> mapValues(hook => (pluginConfig, ctx) =>
-    hook({ ...pluginConfig, config }, ctx)
+    hook({ ...pluginConfig, ...config }, ctx)
   )
