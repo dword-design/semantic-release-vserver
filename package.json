@@ -19,6 +19,7 @@
   "dependencies": {
     "@dword-design/functions": "^1.1.1",
     "@eclass/semantic-release-ssh-commands": "^1.0.1",
+    "parse-pkg-name": "^2.0.0",
     "read-pkg-up": "^7.0.1"
   },
   "devDependencies": {

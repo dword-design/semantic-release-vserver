@@ -1,8 +1,10 @@
 import sshCommands from '@eclass/semantic-release-ssh-commands'
 import readPkgUp from 'read-pkg-up'
-import { mapValues } from '@dword-design/functions'
+import { mapValues, property } from '@dword-design/functions'
+import parsePkgName from 'parse-pkg-name'
 
-const { name } = readPkgUp.sync().packageJson
+const name =
+  readPkgUp.sync().packageJson.name |> parsePkgName |> property('name')
 
 const config = {
   publishCmd: `source ~/.nvm/nvm.sh && cd /var/www/${name} && deploy`,
