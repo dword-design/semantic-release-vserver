@@ -1,9 +1,9 @@
 <!-- TITLE/ -->
-# undefined
+# @dword-design/semantic-release-vserver
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
-[![NPM version](https://img.shields.io/npm/v/undefined.svg)](https://npmjs.org/package/undefined)
+[![NPM version](https://img.shields.io/npm/v/@dword-design/semantic-release-vserver.svg)](https://npmjs.org/package/@dword-design/semantic-release-vserver)
 ![Linux macOS Windows compatible](https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue)
 [![Build status](https://img.shields.io/github/workflow/status/dword-design/semantic-release-vserver/build)](https://github.com/dword-design/semantic-release-vserver/actions)
 [![Coverage status](https://img.shields.io/coveralls/dword-design/semantic-release-vserver)](https://coveralls.io/github/dword-design/semantic-release-vserver)
@@ -22,10 +22,10 @@
 
 ```bash
 # NPM
-$ npm install undefined
+$ npm install @dword-design/semantic-release-vserver
 
 # Yarn
-$ yarn add undefined
+$ yarn add @dword-design/semantic-release-vserver
 ```
 <!-- /INSTALL -->
 
