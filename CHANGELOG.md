@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/dword-design/semantic-release-vserver/compare/v1.0.1...v1.1.0) (2020-05-29)
+
+
+### Features
+
+* set host inside plugin ([69d0c7d](https://github.com/dword-design/semantic-release-vserver/commit/69d0c7d8d9cf582776b5050ac2afb15da63b761c))
+
 ## [1.0.1](https://github.com/dword-design/semantic-release-vserver/compare/v1.0.0...v1.0.1) (2020-05-15)
 
 
