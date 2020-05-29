@@ -11,6 +11,7 @@ const config = {
 }
 
 export default sshCommands
-  |> mapValues(hook => (pluginConfig, ctx) =>
-    hook({ ...pluginConfig, ...config }, ctx)
-  )
+  |> mapValues(hook => (pluginConfig, ctx) => {
+    ctx.env.SSH_HOST = 'dword-design.de'
+    return hook({ ...pluginConfig, ...config }, ctx)
+  })
