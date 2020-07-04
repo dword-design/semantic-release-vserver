@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/dword-design/semantic-release-vserver/compare/v1.1.0...v1.1.1) (2020-07-04)
+
+
+### Bug Fixes
+
+* **config:** Update changed files ([d75a016](https://github.com/dword-design/semantic-release-vserver/commit/d75a016b37b675df28a3a962e5f30e93640cdb58))
+
 # [1.1.0](https://github.com/dword-design/semantic-release-vserver/compare/v1.0.1...v1.1.0) (2020-05-29)
 
 
