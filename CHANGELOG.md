@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/dword-design/semantic-release-vserver/compare/v1.1.1...v1.1.2) (2020-08-26)
+
+
+### Bug Fixes
+
+* build files ([daf4545](https://github.com/dword-design/semantic-release-vserver/commit/daf45455984883d958240d28281ab64e220efedf))
+
 ## [1.1.1](https://github.com/dword-design/semantic-release-vserver/compare/v1.1.0...v1.1.1) (2020-07-04)
 
 
